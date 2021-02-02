@@ -1,0 +1,7 @@
+touch trail
+vi trail 
+trying for trail work
+git add .
+git commit -m "adding new trail work"
+git remote add origin master "https://github.com/deepika-21-gu/git-assignment-1.git"
+git push orgin master
